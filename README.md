@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I'm a bit hippy, I love being outdoors, surfing... I'm also a book nerd.
 
 ## About my work
-[![CarlaSotes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlaSotes&show_icons=true)](https://github.com/CarlaSotes/github-readme-stats)
+[![CarlaSotes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlaSotes&show_icons=true?theme=radical)](https://github.com/CarlaSotes/github-readme-stats)
