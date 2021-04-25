@@ -1,7 +1,7 @@
 ### Hi there 🤙🏽
 
-Here are some ideas to get you started:
 
+## About me
 - 🏛 I'm a Software Engineer studend in the UPNA.
 - 🔭 I’m currently working on html, php, laravel, Java
 - 🌱 I’m currently learning how not to be a disaster 🙂
