@@ -11,5 +11,5 @@
 
 ## About my work
 [![CarlaSotes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlaSotes&show_icons=true?theme=highcontrast)](https://github.com/CarlaSotes/github-readme-stats)
-##
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaSotes&show_icons=true?theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
