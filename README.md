@@ -8,3 +8,6 @@
 - 👯 I’m looking to collaborate on projects about cybersecurity or environmental informatics.
 - 📫 How to reach me: carla.halfblood.potterhead@gmail.com
 - ⚡ Fun fact: I'm a bit hippy, I love being outdoors, surfing... I'm also a book nerd.
+
+## About my work
+[![CarlaSotes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlaSotes)](https://github.com/CarlaSotes/github-readme-stats)
