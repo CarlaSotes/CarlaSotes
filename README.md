@@ -2,11 +2,10 @@
 
 
 ## About me
-- 🏛 I'm a Software Engineer studend in the UPNA.
-- 🔭 I’m currently working on html, php, laravel, Java
-- 🌱 I’m currently learning how not to be a disaster 🙂
+- 🏛 I'm a Software Engineer.
+- 🔭 I’m currently working in Beeplanet Fctory.
 - 👯 I’m looking to collaborate on projects about cybersecurity or environmental informatics.
-- 📫 How to reach me: carla.halfblood.potterhead@gmail.com
+- 📫 How to reach me: carlasotesg@gmail.com
 - ⚡ Fun fact: I'm a bit hippy, I love being outdoors, surfing... I'm also a book nerd. Art is my passion.
 
 ## About my work - public proyects
